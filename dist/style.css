@@ -1,9 +1,13 @@
 body {
-  background: #A9EDDA;
+  background: #a9edda;
 }
 
 .container,
-.ear, .face, .inner, .eye, .snout {
+.ear,
+.face,
+.inner,
+.eye,
+.snout {
   position: absolute;
 }
 
@@ -42,7 +46,7 @@ body {
   left: 10px;
   width: 50px;
   height: 50px;
-  background: #FCB5B5;
+  background: #fcb5b5;
   border-radius: 1000%;
 }
 
@@ -68,7 +72,7 @@ body {
   left: 80px;
   width: 50px;
   height: 45px;
-  background: #FDCFCF;
+  background: #fdcfcf;
   border-radius: 100%;
 }
 
@@ -107,7 +111,7 @@ body {
   left: 12px;
   width: 27px;
   height: 18px;
-  background: #7FB7BE;
+  background: #7fb7be;
   border-radius: 20px;
 }
 
@@ -117,7 +121,7 @@ body {
   left: 7px;
   width: 12px;
   height: 12px;
-  background: #F05D5E;
+  background: #f05d5e;
   border-radius: 20px;
 }
 
@@ -127,6 +131,6 @@ body {
   left: 6px;
   width: 12px;
   height: 12px;
-  border: 2px solid #F05D5E;
+  border: 2px solid #f05d5e;
   border-radius: 20px;
 }
