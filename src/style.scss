@@ -64,3 +64,71 @@ body {
 .eye.right {
   transform: translateX(60px);
 }
+
+.snout {
+  top: 110px;
+  left: 80px;
+  width: 50px;
+  height: 45px;
+  background: #FDCFCF;
+  border-radius: 100%;
+}
+
+.nose {
+  position: absolute;
+  top: 4px;
+  left: 16px;
+  width: 15px;
+  height: 7px;
+  background: #333;
+  border-radius: 100%;
+}
+
+.bridge {
+  position: absolute;
+  top: 10px;
+  left: 23px;
+  width: 2px;
+  height: 13px;
+  background: #333;
+}
+
+.mouth {
+  position: absolute;
+  width: 10px;
+  height: 5px;
+  border-radius: 0% 0% 100% 100%;
+  border-bottom: 2px solid;
+  top: 17px;
+  left: 18px;
+}
+
+.paci {
+  position: absolute;
+  top: 19px;
+  left: 12px;
+  width: 27px;
+  height: 18px;
+  background: #7FB7BE;
+  border-radius: 20px;
+}
+
+.mid {
+  position: absolute;
+  top: 3px;
+  left: 7px;
+  width: 12px;
+  height: 12px;
+  background: #F05D5E;
+  border-radius: 20px;
+}
+
+.ring {
+  position: absolute;
+  top: 5px;
+  left: 6px;
+  width: 12px;
+  height: 12px;
+  border: 2px solid #F05D5E;
+  border-radius: 20px;
+}
